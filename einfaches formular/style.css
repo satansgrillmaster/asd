@@ -1,0 +1,20 @@
+.error{
+    color: red;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+#contact_form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: solid black;
+}
+
+#teaching_aids{
+    margin-top: 1rem;
+}
